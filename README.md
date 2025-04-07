@@ -4,4 +4,4 @@
 ## Features
 - **Current Weather**: Displays the current temperature, weather description, wind speed, and humidity.
 - **5-Day Forecast**: Shows a 5-day weather forecast with temperature and weather icons.
-- - **Temperature Unit Toggle**: Switch between Celsius (°C) and Fahrenheit (°F).
+- **Temperature Unit Toggle**: Switch between Celsius (°C) and Fahrenheit (°F).
